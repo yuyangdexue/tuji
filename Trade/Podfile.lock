@@ -1,0 +1,68 @@
+PODS:
+  - AFNetworking (2.6.2):
+    - AFNetworking/NSURLConnection (= 2.6.2)
+    - AFNetworking/NSURLSession (= 2.6.2)
+    - AFNetworking/Reachability (= 2.6.2)
+    - AFNetworking/Security (= 2.6.2)
+    - AFNetworking/Serialization (= 2.6.2)
+    - AFNetworking/UIKit (= 2.6.2)
+  - AFNetworking/NSURLConnection (2.6.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.2)
+  - AFNetworking/Security (2.6.2)
+  - AFNetworking/Serialization (2.6.2)
+  - AFNetworking/UIKit (2.6.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - HappyDNS (0.2.3)
+  - IQKeyboardManager (3.3.4)
+  - JSONModel (1.1.2)
+  - MCUIColorUtils (1.0.0)
+  - MJRefresh (3.0.1)
+  - NSDictionary+Accessors (1.0.0)
+  - Qiniu (7.0.14):
+    - AFNetworking (~> 2.0)
+    - HappyDNS (~> 0.2)
+  - UIActionSheet+Blocks (0.9)
+  - UIAlertView+Block (1.1.0)
+  - UMengAnalytics (3.6.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - FMDB
+  - IQKeyboardManager
+  - JSONModel
+  - MCUIColorUtils
+  - MJRefresh
+  - NSDictionary+Accessors
+  - Qiniu
+  - UIActionSheet+Blocks
+  - UIAlertView+Block
+  - UMengAnalytics
+
+SPEC CHECKSUMS:
+  AFNetworking: 7f317038a9710cabfa43ec56396b307b45df72ab
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  HappyDNS: 6d85942e64c28b4fa61f8c76580398f52d6d1d11
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+  JSONModel: 216584d0311b053ff714f1d6cb700dbf890847bc
+  MCUIColorUtils: 6f11e1702db4ff5419d28cba1e8f7a82dd82d5fe
+  MJRefresh: ca22bb7197c4a17a0491763773cd5cb106b2a810
+  NSDictionary+Accessors: 5c453c028da416525428c938602c7c96704a9bbc
+  Qiniu: fe3998f74ce375f15738008bac09c018c1656d39
+  UIActionSheet+Blocks: e180b7dad0a721ab7f212ac9742af799008bb358
+  UIAlertView+Block: fa6fcfe2c5110d3b6e9b9d9bfb46ac9250007f65
+  UMengAnalytics: d24fb5200e13d2874f36b6337bc129b96511c54e
+
+COCOAPODS: 0.39.0

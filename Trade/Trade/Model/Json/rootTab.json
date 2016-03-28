@@ -1,0 +1,40 @@
+{
+    "items": [
+              {
+              "title": "首页",
+              "key": "first_tab",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "首页推荐",
+                           "image": "btn_home@2x",
+                           "image_hl": "btn_home_choose@2x"
+                           }
+                           ]
+              },
+              {
+              "title":"第二页",
+              "key": "second_tab",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "热门商品",
+                           "image": "btn_information@2x",
+                           "image_hl": "btn_information_choose@2x"
+                           }
+                           ]
+              },
+              {
+              "title": "个人中心",
+              "key": "third_tab",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "个人中心",
+                           "image": "btn_me@2x",
+                           "image_hl": "btn_me_choose@2x"
+                           }
+                           ]
+              }
+              ]
+}
